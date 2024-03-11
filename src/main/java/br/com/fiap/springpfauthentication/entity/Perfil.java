@@ -25,9 +25,9 @@ public class Perfil {
             initialValue = 1,
             allocationSize = 1
     )
-
     @Column(name = "ID_PERFIL")
     private Long id;
+
     @Column(name = "NM_PERFIL")
     private String nome;
 
