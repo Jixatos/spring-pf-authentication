@@ -1,8 +1,9 @@
 # 🔑🤓👍🏾 Autentica Benezinho
 
-|![fiap.jpg](documentacao%2Ffiap.jpg)                | **JAVA ADVANCED** |
+| ![fiap.jpg](documentacao%2Ffiap.jpg)     | **JAVA ADVANCED** |
 |------------------------------------------|-------------------|
-| **ALUNO:**                               | **TURMA:** 2TDSPF |
+| **ALUNO:** Juan de godoy                 | **TURMA:** 2TDSPF |
+| **ALUNO:** Gabriel Siqueira Rodrigues    | **TURMA:** 2TDSPF |
 | **PROFESSOR:** Benefrancis do Nascimento | 11/03/2024        |
 | **SIMULADO PARA O CP I**                 |                   |
 
